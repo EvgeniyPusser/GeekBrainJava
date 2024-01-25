@@ -1,7 +1,10 @@
-Nice to manipulate
+# Nice to manipulate
 
-# Kio
+## Bio
+
+### Kio
 
 * Kill me Johny
 * Nice to be myself
 * All is new for my
+
