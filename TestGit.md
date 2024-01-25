@@ -12,4 +12,9 @@ New things <sup> idea of nowhere </sub>
 
 *Hyper than ever*
 
+**Bold**
+
+***Off***
+
+
 
